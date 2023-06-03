@@ -2,5 +2,5 @@
 ``https://opabloliver.github.io/aka/``
 
 
-# Creditos
+# Creditos Para o Criador:
 ``DGS1337``
